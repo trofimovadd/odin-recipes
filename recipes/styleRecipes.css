@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+.recipe {
+    background-color: blanchedalmond;
+    height: 100%;
+    width: 60%;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.recipe__header {
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    margin: 10px;
+    justify-content: center;
+}
+
+.recipe__img {
+    width: 300px;
+    height: 500px;
+}
+
+.recipe__description {
+    margin: 10px 10px 0;
+}
